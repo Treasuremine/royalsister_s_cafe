@@ -102,3 +102,10 @@ def get_day(i):
 print(get_day(3)) # Wednesday
 print(get_day(7)) # Invalid input
 ```
+```
+rows = int(input("Enter the number of rows: "))
+for i in range(rows):
+    for j in range(i+1):
+        print("*", end="")
+    print()
+```
