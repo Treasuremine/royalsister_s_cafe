@@ -1,0 +1,10 @@
+$ npm init
+  ...
+  package name: @Treasuremine/royalsister_s_cafe
+  ...
+  test command: exit 0
+  ...    
+$ npm install
+$ git add index.js package.json package-lock.json
+$ git commit -m "initialize npm package"
+$ git push
