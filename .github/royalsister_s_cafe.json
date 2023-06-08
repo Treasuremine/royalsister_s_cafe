@@ -1,0 +1,27 @@
+import json
+
+royalsister_s_cafe = {
+    "owner_name": [
+                    { "ritkriti_aradhya",
+                       "age": 10,
+                       "city": "Dehradun"
+                    }
+                   ]
+    "phone": "0123456789",
+    "menu": [
+      {
+        "name": "Coffee",
+        "price": 2.5
+      },
+      {
+        "name": "Tea",
+        "price": 2.0
+      },
+      {
+        "name": "Muffin",
+        "price": 1.5
+      }
+    ]
+  }
+with open('royalsister_s_cafejson.json', 'w') as f:
+    json.dump(royalsister_s_cafejson, f)
