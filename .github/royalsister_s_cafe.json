@@ -8,18 +8,23 @@ royalsister_s_cafe = {
                     }
                    ]
     "phone": "0123456789",
-    "menu": [
-      {
-        "name": "Coffee",
-        "price": 2.5
+    "buisnessplan": [
+    
+         {
+        "name": "executivesummary_royalsister_s_cafe",
+        "price": A
       },
       {
-        "name": "Tea",
-        "price": 2.0
+        "name": "businessoverview_royalsister_s_cafe",
+        "price": B
       },
-      {
-        "name": "Muffin",
-        "price": 1.5
+{
+        "name": "objectivestatement_royalsister_s_cafe",
+        "price": B
+      }
+     {
+        "name": "businessgoal_royalsister_s_cafe",
+        "price": A
       }
     ]
   }
