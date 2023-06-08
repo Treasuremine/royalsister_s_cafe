@@ -1,1 +1,4 @@
-@Treasuremine/royalsister_s_cafe
+
+"publishConfig": {
+   "@Treasuremine/royalsister_s_cafe": "https://npm.pkg.github.com"
+ }
