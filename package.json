@@ -2,3 +2,26 @@
 "publishConfig": {
    "@Treasuremine/royalsister_s_cafe": "https://npm.pkg.github.com"
  }
+{
+   "name: royalsister_s_cafe-project",
+    "version" : "1.0.0",
+   "description" :"",
+   "main" : "index.js",
+   "main" :".github/workflows",
+   "scripts":{
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package.json",
+     "royalsister_s_cafe.json",
+     "package-lock.json",
+     "royalsister_s_cafe"
+     ],
+   "author" :"Treasure Mine<treasuremine265@gmail.com>",
+    "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
