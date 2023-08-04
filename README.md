@@ -4,5 +4,5 @@ ritkriti_aradhya 🏡📇
 :class: dropdown
 Some hidden toggle content!
 
-![](../images/cool.jpg)
+![](https://www.instagram.com/reel/CuJX_C_AN76/?igshid=MzRlODBiNWFlZA==)https://www.instagram.com/reel/CuJX_C_AN76/?igshid=MzRlODBiNWFlZA==)
 ```
